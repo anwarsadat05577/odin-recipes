@@ -1,0 +1,42 @@
+body{
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+}
+
+.pic{
+    height: auto;
+    width: 610px;
+}
+.btn{
+    margin-top: 8px;
+}
+.btn-2{
+    background-color: blue;
+    color: white;
+    font: bold;
+    font-size: 24px;
+}
+p.style{
+    font: bold;
+    font-size: 20px;
+    background-color: grey;
+    color: white;
+    width: 38rem;
+    height: auto;
+}
+
+.container{
+    background-color: lightcyan;
+    font-weight: bold;
+    height: auto;
+    width: 610px;
+    border-radius: 10px;
+}
